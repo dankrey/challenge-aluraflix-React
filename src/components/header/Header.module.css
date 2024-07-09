@@ -1,0 +1,76 @@
+body {
+    background-color: #000000; /* Fondo negro para todo el body */
+    margin: 0; /* Remover márgenes que puedan causar el color gris */
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2.4rem 2.5rem;
+   
+    border-bottom: 4px solid var(--color-blue);
+}
+
+a { 
+    text-decoration: none;
+}
+
+.logoContainer{
+    height: auto;
+    display: flex;
+    align-items: center;
+    background-color: #000000; /* Fondo negro */
+}
+
+.nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #000000; /* Fondo negro */
+}
+
+.header img {
+    align-self: start;
+}
+
+.navLinks {
+    display: flex;
+    justify-content: space-around;
+}
+
+.menuIcon {
+    display: none;
+}
+
+@media (max-width: 600px) {
+    .header {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .navLinks {
+        display: none;
+        flex-direction: column;
+        position: absolute;
+        top: 70px;
+        right: 5px;
+        padding: 1rem;
+        border-radius: 5px;
+        z-index: 10;
+        background-color: #000000; /* Fondo negro para el menú móvil */
+    }
+
+    .navLinks.showMenu {
+        display: flex;
+        gap: 0.5rem;
+    }
+
+    .menuIcon {
+        display: block;
+        font-size: 1.5rem;
+        color: var(--color-white);
+        cursor: pointer;
+    }
+}
