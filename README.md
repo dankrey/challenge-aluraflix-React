@@ -38,7 +38,7 @@ Clona este repositorio:
 
 Copiar código
 
-     git clone https://github.com/tu-usuario/challenge-aluraflix.git
+     git clone https://github.com/dankrey/challenge-aluraflix-React.git
 
 Ve al directorio del proyecto:
 
