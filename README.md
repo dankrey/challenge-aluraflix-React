@@ -116,10 +116,10 @@ Se ejecuta el proyecto con:
 
 ##Tecnologías Utilizadas
 
-React
-JSON Server
-HTML
-CSS
+React,
+JSON Server,
+HTML,
+CSS,
 
 ##Personas Contribuyentes
 
