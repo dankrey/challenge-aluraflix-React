@@ -4,27 +4,32 @@
   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green" alt="Estado del Proyecto">
   
 </p>
-##Índice
-1.Descripción del Proyecto
-2.Estado del Proyecto
-3.Demostración de Funciones y Aplicaciones
-4.Acceso al Proyecto
-5.Creación del Proyecto
-6.Tecnologías Utilizadas
-7.Personas Contribuyentes
-8.Personas Desarrolladoras del Proyecto
-9.Licencia
+
+## Índice
+1. [Descripción del Proyecto](#descripción-del-proyecto)
+2. [Estado del Proyecto](#estado-del-proyecto)
+3. [Demostración de Funciones y Aplicaciones](#demostración-de-funciones-y-aplicaciones)
+4. [Acceso al Proyecto](#acceso-al-proyecto)
+5. [Creación del Proyecto](#creación-del-proyecto)
+6. [Tecnologías Utilizadas](#tecnologías-utilizadas)
+7. [Personas Contribuyentes](#personas-contribuyentes)
+8. [Personas Desarrolladoras del Proyecto](#personas-desarrolladoras-del-proyecto)
+9. [Licencia](#licencia)
 
 Descripción del Proyecto
 Challenge AluraFlix es un proyecto desarrollado como parte del curso de Alura sobre React y JSON Server. Permite a los usuarios ver una lista de videos organizados por categorías.
 
+
+<h4 align="center">
 ##Estado del Proyecto
 🚧 En desarrollo 🚧
+
+</h4>
 
 ##Demostración de Funciones y Aplicaciones
 Inserta aquí una demostración visual de tu aplicación si es posible (gif, imágenes, etc.).
 
-##Acceso al Proyecto
+\## 📁 Acceso al proyecto
 Para ver el proyecto en acción, sigue estos pasos:
 
 Clona este repositorio:
@@ -45,7 +50,7 @@ Copiar código
 npm run dev
 Abre tu navegador y ve a http://localhost:3000 para ver la aplicación.
 
-##Creación del Proyecto
+\## 🛠️Creación del Proyecto
 Para crear este proyecto desde cero, sigue los siguientes pasos:
 
 Ejecuta el comando:
