@@ -68,6 +68,8 @@ Personas Contribuyentes
 Daniel Esteban Reyes Reyes
 
 Personas Desarrolladoras del Proyecto
-<img src="link_imagen" width=115><br><sub>Daniel Esteban Reyes Reyes</sub>
+<img src="https://avatars.githubusercontent.com/u/56520204?v=4&size=64" width=115><br><sub>Daniel Esteban Reyes Reyes</sub>
+
+
 Licencia
 ----------
