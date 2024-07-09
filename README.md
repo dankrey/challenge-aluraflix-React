@@ -64,7 +64,7 @@ Copiar código
 
      npm run dev
 
-Abre tu navegador y ve a http://localhost:3000 para ver la aplicación.
+Abre tu navegador y ve a http://localhost:5173/ para ver la aplicación.
 
 \## 🛠️Creación del Proyecto
 Para crear este proyecto desde cero, sigue los siguientes pasos:
