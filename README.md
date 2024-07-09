@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green" alt="Estado del Proyecto">
   <img src="https://img.shields.io/badge/LICENSE-MIT-blue" alt="Licencia MIT">
 </p>
-Índice
+##Índice
 Descripción del Proyecto
 Estado del Proyecto
 Demostración de Funciones y Aplicaciones
@@ -19,13 +19,13 @@ Licencia
 Descripción del Proyecto
 Challenge AluraFlix es un proyecto desarrollado como parte del curso de Alura sobre React y JSON Server. Permite a los usuarios ver una lista de videos organizados por categorías.
 
-Estado del Proyecto
+##Estado del Proyecto
 🚧 En desarrollo 🚧
 
-Demostración de Funciones y Aplicaciones
+##Demostración de Funciones y Aplicaciones
 Inserta aquí una demostración visual de tu aplicación si es posible (gif, imágenes, etc.).
 
-Acceso al Proyecto
+##Acceso al Proyecto
 Para ver el proyecto en acción, sigue estos pasos:
 
 Clona este repositorio:
@@ -45,7 +45,8 @@ bash
 Copiar código
 npm run dev
 Abre tu navegador y ve a http://localhost:3000 para ver la aplicación.
-Creación del Proyecto
+
+##Creación del Proyecto
 Para crear este proyecto desde cero, sigue los siguientes pasos:
 
 Ejecuta el comando:
@@ -69,13 +70,22 @@ Copiar código
 cd challenge-aluraflix
 npm install
 npm run dev
-Tecnologías Utilizadas
+
+##Tecnologías Utilizadas
+
 React
 JSON Server
 HTML
 CSS
-Personas Contribuyentes
+
+##Personas Contribuyentes
+
 Daniel Esteban Reyes Reyes
-Personas Desarrolladoras del Proyecto
-<img src="https://avatars.githubusercontent.com/u/56520204?v=4" width=115><br><sub>Daniel Esteban Reyes Reyes</sub>
-Licencia
+
+##Personas Desarrolladoras del Proyecto
+
+<img src="https://avatars.githubusercontent.com/u/56520204?v=4" width=115><br>
+<sub>Daniel Esteban Reyes Reyes</sub>
+
+
+##Licencia
