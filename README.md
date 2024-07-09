@@ -1,10 +1,8 @@
 <h1 align="center">Challenge AluraFlix</h1>
-<p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Challenge+AluraFlix" alt="Portada del Proyecto">
-</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green" alt="Estado del Proyecto">
-  <img src="https://img.shields.io/badge/LICENSE-MIT-blue" alt="Licencia MIT">
+  
 </p>
 ##Índice
 Descripción del Proyecto
