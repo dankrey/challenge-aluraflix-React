@@ -5,15 +5,16 @@
   
 </p>
 ##Índice
-Descripción del Proyecto
-Estado del Proyecto
-Demostración de Funciones y Aplicaciones
-Acceso al Proyecto
-Creación del Proyecto
-Tecnologías Utilizadas
-Personas Contribuyentes
-Personas Desarrolladoras del Proyecto
-Licencia
+1.Descripción del Proyecto
+2.Estado del Proyecto
+3.Demostración de Funciones y Aplicaciones
+4.Acceso al Proyecto
+5.Creación del Proyecto
+6.Tecnologías Utilizadas
+7.Personas Contribuyentes
+8.Personas Desarrolladoras del Proyecto
+9.Licencia
+
 Descripción del Proyecto
 Challenge AluraFlix es un proyecto desarrollado como parte del curso de Alura sobre React y JSON Server. Permite a los usuarios ver una lista de videos organizados por categorías.
 
