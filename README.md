@@ -27,27 +27,43 @@ Challenge AluraFlix es un proyecto desarrollado como parte del curso de Alura so
 </h4>
 
 ##Demostración de Funciones y Aplicaciones
-Inserta aquí una demostración visual de tu aplicación si es posible (gif, imágenes, etc.).
+
 
 \## 📁 Acceso al proyecto
 Para ver el proyecto en acción, sigue estos pasos:
 
 Clona este repositorio:
-bash
+
+ bash
+
 Copiar código
-git clone https://github.com/tu-usuario/challenge-aluraflix.git
+
+ git clone https://github.com/tu-usuario/challenge-aluraflix.git
+
 Ve al directorio del proyecto:
-bash
+
+ bash
+
 Copiar código
-cd challenge-aluraflix
+
+ cd challenge-aluraflix
+
 Instala las dependencias:
-bash
+
+ bash
+
 Copiar código
-npm install
+
+ npm install
+
 Inicia el servidor de desarrollo:
-bash
+
+ bash
+
 Copiar código
-npm run dev
+
+ npm run dev
+
 Abre tu navegador y ve a http://localhost:3000 para ver la aplicación.
 
 \## 🛠️Creación del Proyecto
@@ -55,26 +71,48 @@ Para crear este proyecto desde cero, sigue los siguientes pasos:
 
 Ejecuta el comando:
 
-bash
+
+ bash
+
 Copiar código
-npm create vite@latest
+
+
+ npm create vite@latest
+
 Nombre del proyecto:
 
-bash
+
+ bash
+
 Copiar código
-challenge-aluraflix
+
+ challenge-aluraflix
+
 Selecciona las opciones:
 
-React
-JavaScript
+
+ React
+
+ JavaScript
+
 Luego ejecuta los siguientes comandos:
 
-bash
-Copiar código
-cd challenge-aluraflix
-npm install
-npm run dev
 
+ bash
+
+Copiar código
+
+ cd challenge-aluraflix
+
+ npm install
+
+ npm run dev
+
+
+
+Se ejecuta el proyecto con:
+
+     npm start
 ##Tecnologías Utilizadas
 
 React
