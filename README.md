@@ -34,35 +34,35 @@ Para ver el proyecto en acción, sigue estos pasos:
 
 Clona este repositorio:
 
- bash
+     bash
 
 Copiar código
 
- git clone https://github.com/tu-usuario/challenge-aluraflix.git
+     git clone https://github.com/tu-usuario/challenge-aluraflix.git
 
 Ve al directorio del proyecto:
 
- bash
+     bash
 
 Copiar código
 
- cd challenge-aluraflix
+      cd challenge-aluraflix
 
 Instala las dependencias:
 
- bash
+     bash
 
 Copiar código
 
- npm install
+     npm install
 
 Inicia el servidor de desarrollo:
 
- bash
+     bash
 
 Copiar código
 
- npm run dev
+     npm run dev
 
 Abre tu navegador y ve a http://localhost:3000 para ver la aplicación.
 
@@ -113,7 +113,7 @@ Copiar código
 Se ejecuta el proyecto con:
 
      npm start
-     
+
 ##Tecnologías Utilizadas
 
 React
