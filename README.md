@@ -113,6 +113,7 @@ Copiar código
 Se ejecuta el proyecto con:
 
      npm start
+     
 ##Tecnologías Utilizadas
 
 React
