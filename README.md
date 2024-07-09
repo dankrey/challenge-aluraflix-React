@@ -72,33 +72,33 @@ Para crear este proyecto desde cero, sigue los siguientes pasos:
 Ejecuta el comando:
 
 
- bash
+     bash
 
 Copiar código
 
 
- npm create vite@latest
+     npm create vite@latest
 
 Nombre del proyecto:
 
 
- bash
+     bash
 
 Copiar código
 
- challenge-aluraflix
+     challenge-aluraflix
 
 Selecciona las opciones:
 
 
- React
+     React
 
- JavaScript
+     JavaScript
 
 Luego ejecuta los siguientes comandos:
 
 
- bash
+     bash
 
 Copiar código
 
