@@ -102,11 +102,11 @@ Luego ejecuta los siguientes comandos:
 
 Copiar código
 
- cd challenge-aluraflix
+     cd challenge-aluraflix
 
- npm install
+     npm install
 
- npm run dev
+     npm run dev
 
 
 
